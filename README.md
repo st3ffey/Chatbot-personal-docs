@@ -1,3 +1,3 @@
-# NLP
+# Chatbot on your personal documents.
 
-Where I'm hosting all of my NLP work and practice.
+This script is my exploration of a basic implementation of LangChain's OpenAI integration that uses Gradio as a front-end.
